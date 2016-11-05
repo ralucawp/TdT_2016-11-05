@@ -1,0 +1,22 @@
+{
+  "name": "tabaradetestare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralucawp/TdT_2016-11-05.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralucawp/TdT_2016-11-05/issues"
+  },
+  "homepage": "https://github.com/ralucawp/TdT_2016-11-05#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
